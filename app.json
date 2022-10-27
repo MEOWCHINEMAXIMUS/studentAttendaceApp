@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "schoolattendanceapp--template",
+    "slug": "snack-2a270596-c4a5-4217-baf3-4be2c335ef1b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.meowmere.snack2a270596c4a54217baf34be2c335ef1b"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
